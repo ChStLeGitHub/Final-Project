@@ -1,4 +1,4 @@
-# Project 16: Forecasting Telecom Customer Retention and Churn
+# Forecasting Telecom Customer Retention and Churn
  
 **Objective:** To develop a machine learning model for the telecom operator Interconnect that uses data of customers' contract details, internet usage, phone usage, and demographic information to predict customer churn, thereby allowing Interconnect to offer promotional codes and special plan options to customers who are expected to leave.
 
